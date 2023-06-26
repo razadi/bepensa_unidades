@@ -1,4 +1,4 @@
-export 'package:bepensa_unidades/utils/theme/bm_colors.dart';
+import 'package:bepensa_unidades/utils/utils.dart';
 import 'package:flutter/material.dart';
 
 class BmTheme {
